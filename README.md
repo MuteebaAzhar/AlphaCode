@@ -1,10 +1,11 @@
-# CodeAlpha
+Got it 👍 — you want **clean copy-paste GitHub code only**, without my explanations and without broken formatting.
+
+Below is the **final corrected README.md** you can paste directly into GitHub.
+
 ---
 
-# 📌 README.md
-
 ````markdown
-# Credit Scoring Model using Machine Learning
+# CodeAlpha — Credit Scoring Model using Machine Learning
 
 <p align="center">
   <img src="docs/images/logo.png" alt="Project Logo" width="200"/>
@@ -62,14 +63,14 @@ The pipeline emphasizes:
 
 Pipeline Steps:
 
-1. Data Loading
-2. Exploratory Data Analysis (EDA)
-3. Feature Engineering
-4. Data Splitting
-5. Model Training
-6. Model Evaluation
-7. Visualization & Interpretation
-8. Prediction Demo
+1. Data Loading  
+2. Exploratory Data Analysis (EDA)  
+3. Feature Engineering  
+4. Data Splitting  
+5. Model Training  
+6. Model Evaluation  
+7. Visualization & Interpretation  
+8. Prediction Demo  
 
 ---
 
@@ -79,7 +80,7 @@ Run the main script:
 
 ```bash
 python credit_score.py
-```
+````
 
 ---
 
@@ -134,6 +135,9 @@ Output:
 Default Probability: 5.1%
 Decision: LOW RISK — Likely to Repay
 ```
+
+---
+
 ## 🌍 Applications and Impact
 
 This framework can be applied to:
@@ -158,9 +162,6 @@ Potential improvements include:
 
 ---
 
-
-
-
-
-Just tell me 👍
 ```
+
+
