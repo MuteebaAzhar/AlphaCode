@@ -1,8 +1,3 @@
-Got it 👍 — you want **clean copy-paste GitHub code only**, without my explanations and without broken formatting.
-
-Below is the **final corrected README.md** you can paste directly into GitHub.
-
----
 
 ````markdown
 # CodeAlpha — Credit Scoring Model using Machine Learning
