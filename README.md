@@ -1,14 +1,5 @@
 
-````markdown
 # CodeAlpha — Credit Scoring Model using Machine Learning
-
-<p align="center">
-  <img src="docs/images/logo.png" alt="Project Logo" width="200"/>
-</p>
-
-A machine learning–based credit risk assessment framework designed to predict an individual's likelihood of loan default using structured financial data. This project demonstrates end-to-end model development including exploratory data analysis, feature engineering, predictive modeling, and performance evaluation.
-
-The repository is intended for data scientists, financial analysts, and researchers interested in applied machine learning for financial risk modeling.
 
 ---
 
