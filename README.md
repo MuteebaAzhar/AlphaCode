@@ -52,8 +52,8 @@ Pipeline Steps:
 5. Model Training  
 6. Model Evaluation  
 7. Visualization & Interpretation  
-8. Prediction Demo  
-
+8. Prediction Demo
+   
 ---
 
 ## 🚀 Usage
