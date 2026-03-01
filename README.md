@@ -43,10 +43,6 @@ The pipeline emphasizes:
 
 ## 🧠 Methodology Workflow
 
-<p align="center">
-  <img src="docs/images/workflow.png" alt="Workflow Diagram" width="700"/>
-</p>
-
 Pipeline Steps:
 
 1. Data Loading  
