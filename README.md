@@ -1,5 +1,5 @@
 
-# CodeAlpha — Credit Scoring Model using Machine Learning
+# CodeAlpha — Credit Scoring Model
 
 ---
 
@@ -129,18 +129,6 @@ This framework can be applied to:
 * Loan approval decision support
 * Financial behavior analytics
 * Educational demonstrations of ML in finance
-
----
-
-## 🔮 Future Directions
-
-Potential improvements include:
-
-* Hyperparameter optimization
-* Class imbalance handling with advanced resampling
-* Explainable AI integration (SHAP / LIME)
-* Deployment as a web application
-* Integration with real financial datasets
 
 ---
 
